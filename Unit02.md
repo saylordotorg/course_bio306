@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO306: Botany"
+course_description: "A detailed survey of the biology of plant life. Examines what makes plants unique among other kingdoms, then investigates their anatomy and physiology, environmental adaptations, evolution, and role in global ecology."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Plant Physiology** <span id="2"></span> 
 *In this unit, you will learn the basics of plant life: photosynthesis,
 respiration, transpiration (water utilization), nutrition, growth and

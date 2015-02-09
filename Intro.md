@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO306: Botany"
+course_description: "A detailed survey of the biology of plant life. Examines what makes plants unique among other kingdoms, then investigates their anatomy and physiology, environmental adaptations, evolution, and role in global ecology."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BIO306: Botany"
 ------------------------------------
 

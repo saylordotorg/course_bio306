@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO306: Botany"
+course_description: "A detailed survey of the biology of plant life. Examines what makes plants unique among other kingdoms, then investigates their anatomy and physiology, environmental adaptations, evolution, and role in global ecology."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Plant Ecology** <span id="4"></span> 
 *In this final unit, we will learn how plants fit into the global
 ecology.  You will discover that every biome has characteristic
