@@ -158,3 +158,12 @@ resource makes this even more likely.  For this reason, I highly
 recommend that you outline and take notes as you progress through the
 course, and review your outline and notes frequently.  This will be
 useful when preparing for your Final Exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio306/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio306/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio306/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio306/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio306/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio306/Unit06/)
