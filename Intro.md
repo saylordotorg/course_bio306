@@ -104,10 +104,10 @@ of the following materials:
     Book](http://www2.estrellamountain.edu/faculty/farabee/biobk/biobooktoc.html)*
     (HTML)
 -   YouTube: UC Berkeley: Professor Jennifer A. Doudna’s [Biology 1A
-    Lectures](http://www.youtube.com/watch?v=DRiokVd-ID8&feature=list_related&playnext=1&list=SP58DC5865AE85BA28)
+    Lectures](https://www.youtube.com/watch?v=JDYFcI14pnQ&list=PLc_u7NhF7h6ERtDr01oAVzQnsidWT7KxF)
     (YouTube)
 -   YouTube: UC Berkeley: Professor Lewis Feldman’s [Biology 1B
-    Lectures](http://www.youtube.com/watch?v=B6Z1Trj369E&feature=list_related&playnext=1&list=SP8F4B114D1DC5394B)
+    Lectures](https://www.youtube.com/watch?v=WI2ylWg5qK0&list=PLc4NR94y7KueF7hZ3GG9PObWOghdr5RSx)
     (YouTube)
 
 **Requirements for Completion:** In order to complete this course, you
