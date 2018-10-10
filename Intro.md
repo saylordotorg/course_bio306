@@ -97,7 +97,7 @@ of the following materials:
     (HTML)
 -   University of Hamburg: Professor Alice Bergfeld, Rolf Bergmann, and
     Peter v. Sengbusch’s *[Botany Online: The Internet
-    Hypertextbook](http://www.biologie.uni-hamburg.de/b-online/e00/contents.htm)*
+    Hypertextbook](http://www1.biologie.uni-hamburg.de/b-online/e00/contents.htm)*
     (HTML)
 -   Estrella Mountain Community College: Professor Michael J. Farabee’s
     *[On-Line Biology
