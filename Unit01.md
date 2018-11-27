@@ -133,7 +133,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Cell and Tissue Type
     Introduction”**
     Link: The Saylor Foundation’s “[Cell and Tissue Type
-    Introduction](http://www.saylor.org/site/wp-content/uploads/2011/09/BIO306-Subunit-1.1.2-Cell-and-Plant-Tissue-Introduction-FINAL.pdf)”  
+    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/09/BIO306-Subunit-1.1.2-Cell-and-Plant-Tissue-Introduction-FINAL.pdf)”  
         
      Instructions: Please download the PDF linked above, and read this
     introductory information on cell and tissue types.
